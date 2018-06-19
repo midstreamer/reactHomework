@@ -20,7 +20,13 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
-https://yarnpkg.com/en/docs/cli/run
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
 # Logs
 logs
 *.log

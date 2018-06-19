@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Burger King",
+    "clicked": false,
+    "image":
+      "http://images6.fanpop.com/image/photos/39800000/Burger-King-Logo-4-nintendofan12-5-39800949-300-300.png"
+  },
+  {
+    "id": 2,
+    "name": "Arby's",
+    "clicked": false,
+    "image":
+      "https://1r0dsk2fa8smuffuq43glcbd-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/arbys_redux_logo_detail.png"
+  },
+  {
+    "id": 3,
+    "name": "Wendy's",
+    "clicked": false,
+    "image":
+      "http://www.kfornow.com/wp-content/uploads/2016/11/wendys-logo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Taco Bell",
+    "clicked": false,
+    "image":
+      "https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Taco_bell_logo.jpg/revision/latest?cb=20161216072754"
+  },
+  {
+    "id": 5,
+    "name": "Pizza Hut",
+    "clicked": false,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/Pizza_Hut_1967-1999_logo.svg"
+  },
+  {
+    "id": 6,
+    "name": "Chipotle",
+    "clicked": false,
+    "image":
+      "http://1000logos.net/wp-content/uploads/2017/11/Chipotle-Logo.png"
+  },
+  {
+    "id": 7,
+    "name": "Dairy Queen",
+    "clicked": false,
+    "image":
+      "https://www.fastfoodmenuprices.com/wp-content/uploads/2016/10/1q.jpg"
+  },
+  {
+    "id": 8,
+    "name": "In-N-Out",
+    "clicked": false,
+    "image":
+      "https://cbsbaltimore.files.wordpress.com/2011/08/in-n-out.jpg?w=640&h=360&crop=1"
+  },
+  {
+    "id": 9,
+    "name": "Smash Burger",
+    "clicked": false,
+    "image":
+      "https://vignette.wikia.nocookie.net/logopedia/images/5/5f/Smashburger_2009.jpg/revision/latest?cb=20160809035638"
+  },
+  {
+    "id": 10,
+    "name": "Chick-fil-a",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/736x/dc/8d/11/dc8d110a039ff5c698a8f94f266de6e9--food-logos-fast-foods.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Little Caesars",
+    "clicked": false,
+    "image":
+      "http://hastingsmuseum.org/wp-content/uploads/2015/02/LittleCaesars_Logo-2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "KFC",
+    "clicked": false,
+    "image":
+      "http://www.twobigladies.co.uk/wp-content/uploads/2015/03/kfc-logo.png"
+  },
+  {
+    "id": 13,
+    "name": "Duncan Donuts",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Tstr-H5fX-o7F-ADCGnfUx8q-GEVBFQyJ-Mq3OXXIzXixTge"
+  },
+  {
+    "id": 14,
+    "name": "Sonic",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBG52D0PtYE7YE9p03FNi5f1jniJtij52N1X9nNGUg9-vB9AgP"
+  },
+  {
+    "id": 15,
+    "name": "Subway",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eXWAVDM_TQ672qos4-Zcdj2GrsxRnSAvHUZqXms7B96R7vr2"
+  },
+  {
+    "id": 16,
+    "name": "White Castle",
+    "clicked": false,
+    "image":
+      "https://img.buzzfeed.com/buzzfeed-static/static/2016-08/25/0/enhanced/buzzfeed-prod-web02/enhanced-16475-1472098441-4.jpg"
+  }
+]
+
